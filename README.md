@@ -1,7 +1,6 @@
 # Hello, I'm sazid
 <a href="https://www.linkedin.com/in/md-sazid-ali-b41192241/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=455498" style='border:none;'></iframe>
-
+![tryhackme stats](https://raw.githubusercontent.com/Sazid-Hunt/Sazid-Hunt/master/assets/thm_propic.png)
 
 I'm an MCA student with a strong interest in cybersecurity, particularly in ethical hacking and CTF challenges. I enjoy solving complex security problems, sharpening my skills through hands-on competitions, and staying updated with the latest cyber threats and defense strategies.
 
